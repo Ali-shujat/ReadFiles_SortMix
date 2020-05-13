@@ -8,7 +8,7 @@ namespace ReadFiles_SortMix
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Read files/ Mix and Sort!");
+            Console.WriteLine("Exercise 5 :Read files/ Mix and Sort!");
             //Create a program to read the content of two different files and display it mixed and sorted alphabetically.
 
             string[] text1 = File.ReadAllLines(@"C:\C-sharp\Exersice\ReadFiles_SortMix\ReadFiles_SortMix\TextFile1.txt");
